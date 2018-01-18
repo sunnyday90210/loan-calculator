@@ -1,1 +1,1 @@
-# loan-calculator
+# Simple Working Loan Calculator
